@@ -6,3 +6,4 @@ nota= esta es un empresa ficticia ninguna de dato en este repositorio es real
 
 pst año 2023 = 15000000000
 
+pst año 2024 = 15000000000
